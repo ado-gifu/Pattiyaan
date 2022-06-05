@@ -1,0 +1,7 @@
+The following tasks need to be completed:
+
+1) add more Forth words to make the interpreter more useable.
+
+2) refactor code at the end of development (after #1 above is completed).
+
+3) add more comments.
